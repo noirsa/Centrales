@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a56dcccd-596d-4988-bb88-a99ec978ea68" name="Changes" comment="SolucionInicial v1">
+    <list default="true" id="a56dcccd-596d-4988-bb88-a99ec978ea68" name="Changes" comment="SolucionInicial v1.ganancias">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/CentralEnergia.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Central/Estado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Central/Estado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Central/Estado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Central/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Central/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +21,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../CentralEnergia.jar!/IA/Energia/Central.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../CentralEnergia.jar!/IA/Energia/Cliente.class" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -40,7 +46,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.General"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -86,7 +92,9 @@
       <workItem from="1663775296006" duration="58000" />
       <workItem from="1663880337912" duration="141000" />
       <workItem from="1663949391703" duration="4024000" />
-      <workItem from="1663946503596" duration="1784000" />
+      <workItem from="1663946503596" duration="1859000" />
+      <workItem from="1663951298852" duration="951000" />
+      <workItem from="1663965249366" duration="7934000" />
     </task>
     <task id="LOCAL-00001" summary="Start">
       <created>1663682695841</created>
@@ -102,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663945898936</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="SolucionInicial v1.ganancias">
+      <created>1663948350804</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663948350804</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,7 +143,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Start" />
     <MESSAGE value="SolucionInicial v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="SolucionInicial v1" />
+    <MESSAGE value="SolucionInicial v1.ganancias" />
+    <option name="LAST_COMMIT_MESSAGE" value="SolucionInicial v1.ganancias" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -16,7 +16,7 @@ public class Main {
     public static void main(String[] args) throws Exception {
 
         Scanner scan= new Scanner(System.in);
-        System.out.println("Centrales (XG MG G): ");
+        System.out.println("Centrales (A B C): ");
         int[] i = new int[3];
         i[0]=scan.nextInt();
         i[1]=scan.nextInt();
