@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a56dcccd-596d-4988-bb88-a99ec978ea68" name="Changes" comment="SolucionInicial v1.ganancias">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/CentralEnergia.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Central/Estado.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Central/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Central/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="a56dcccd-596d-4988-bb88-a99ec978ea68" name="Changes" comment="SolucionInicial v1.Error grave corregido, y otros" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +89,7 @@
       <workItem from="1663949391703" duration="4024000" />
       <workItem from="1663946503596" duration="1859000" />
       <workItem from="1663951298852" duration="951000" />
-      <workItem from="1663965249366" duration="7934000" />
+      <workItem from="1663965249366" duration="8062000" />
     </task>
     <task id="LOCAL-00001" summary="Start">
       <created>1663682695841</created>
@@ -117,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663948350804</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="SolucionInicial v1.Error grave corregido, y otros">
+      <created>1663973288459</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663973288459</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,7 +146,8 @@
     <MESSAGE value="Start" />
     <MESSAGE value="SolucionInicial v1" />
     <MESSAGE value="SolucionInicial v1.ganancias" />
-    <option name="LAST_COMMIT_MESSAGE" value="SolucionInicial v1.ganancias" />
+    <MESSAGE value="SolucionInicial v1.Error grave corregido, y otros" />
+    <option name="LAST_COMMIT_MESSAGE" value="SolucionInicial v1.Error grave corregido, y otros" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
