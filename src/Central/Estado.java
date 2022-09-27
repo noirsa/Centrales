@@ -45,6 +45,45 @@ public class Estado {
         this.costeT=0.0;
     }
 
+    public Estado(Clientes clientes, Centrales centrales, int[] estado, double[] productionNoConsumed, double[] ganacia, double ganaciaT, double costeT) {
+        this.clientes = clientes;
+        this.centrales = centrales;
+        this.estado = estado;
+        this.productionNoConsumed = productionNoConsumed;
+        this.ganacia = ganacia;
+        this.ganaciaT = ganaciaT;
+        this.costeT = costeT;
+    }
+
+
+    public Clientes getClientes() {
+        return clientes;
+    }
+
+    public Centrales getCentrales() {
+        return centrales;
+    }
+
+    public int[] getEstado() {
+        return estado;
+    }
+
+    public double[] getProductionNoConsumed() {
+        return productionNoConsumed;
+    }
+
+    public double[] getGanacia() {
+        return ganacia;
+    }
+
+    public double getGanaciaT() {
+        return ganaciaT;
+    }
+
+    public double getCosteT() {
+        return costeT;
+    }
+
     public void solucionIni() throws myExceptions {
 
         int indexCentral=0;
